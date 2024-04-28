@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"interpreter/packages/token"
+	"aninha/packages/token"
 	"testing"
 )
 
